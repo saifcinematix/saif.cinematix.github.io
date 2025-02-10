@@ -40,8 +40,8 @@
 
     <section id="contact">
         <h2>Contact Me</h2>
-        <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
-        <p>Instagram: <a href="https://instagram.com/yourprofile" target="_blank">@yourprofile</a></p>
+        
+        <p>Instagram: <a href="https://instagram.com/saif.cinematix" target="_blank">@saif.cinematix</a></p>
     </section>
 
     <footer>
